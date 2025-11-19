@@ -27,10 +27,10 @@ print(round(BMI,1))
 
 
 if BMI < 18.5:
-    print('You are under weight')
+    print('You are skin and bones')
 elif BMI > 19 and BMI < 25:
-    print('You are normal weight')
+    print('You are an average joe')
 elif BMI >= 25 and BMI < 30:
-    print('You are over weight')
+    print('You are paul blart mall cop')
 elif BMI >= 30 and BMI < 35:
     print('You are abeast')
